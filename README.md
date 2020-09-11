@@ -1,1 +1,1 @@
-[![NoamSauerUtley's github stats](https://github-readme-stats.vercel.app/api?username=noamsauerutley&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![NoamSauerUtley's github stats](https://github-readme-stats.vercel.app/api?username=noamsauerutley&theme=merko?hide=issues)](https://github.com/anuraghazra/github-readme-stats)
