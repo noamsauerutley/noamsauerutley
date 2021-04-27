@@ -17,5 +17,5 @@ I like functional programming, writing [Javascript Solutions to Common Algorithm
 
 I live in ~~Brooklyn, NY~~ Pembroke, Bermuda.
 
-¹ Many of these post are from my very early learn-to-code days, and are now out of date and full of cringe. Going back to refactor that code is on my to-do list. In the meantime, I'm sorry. I don't know why I used `let` so much.
+¹ _Many of these post are from my very early learn-to-code days, and are now out of date and full of cringe. Going back to refactor that code is on my to-do list. In the meantime, I'm sorry. I don't know why I used `let` so much._
 </p>
