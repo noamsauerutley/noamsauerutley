@@ -13,7 +13,9 @@ hi! 👋🏻
 
 I first learned how to mess with web pages through the <a href="http://www.neopets.com/help/html1.phtml">Neopets HTML Guide</a>, went on to complete <a href="https://flatironschool.com/career-courses/coding-bootcamp">Flatiron School's Software Engineering program</a>, and now build things for <a href="https://parallelmarkets.com/">Parallel Markets</a>.
 
-I like functional programming, writing [Javascript Solutions to Common Algorithm Challenges](https://medium.com/@noamsauerutley) (note: many of these post are from my earliest learn-to-code days, and are now out of date and full of cringe. Going back to refactor that code is on my to-do list), and collecting hobbies.
+I like functional programming, writing [Javascript Solutions to Common Algorithm Challenges](https://medium.com/@noamsauerutley)¹, and collecting hobbies.
 
 I live in ~~Brooklyn, NY~~ Pembroke, Bermuda.
+
+¹ Many of these post are from my very early learn-to-code days, and are now out of date and full of cringe. Going back to refactor that code is on my to-do list. In the meantime, I'm sorry. I don't know why I used `let` so much.
 </p>
