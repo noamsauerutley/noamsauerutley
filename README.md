@@ -8,7 +8,9 @@
     <img src="https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=9ba4b4&color=31363e" />
     <img src="https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=9ba4b4&color=31363e" />
   </p>
-  hi! I got my start on the <a href="http://www.neopets.com/help/html1.phtml">Neopets HTML Guide</a>, attended <a href="https://flatironschool.com/career-courses/coding-bootcamp">Flatiron School's Software Engineering program</a>, and now build things for <a href="https://parallelmarkets.com/">Parallel Markets</a>.
+hi! 👋🏻
+
+I got my start on the <a href="http://www.neopets.com/help/html1.phtml">Neopets HTML Guide</a>, attended <a href="https://flatironschool.com/career-courses/coding-bootcamp">Flatiron School's Software Engineering program</a>, and now build things for <a href="https://parallelmarkets.com/">Parallel Markets</a>.
 
 I like functional programming, writing [Javascript Solutions to Common Algorithm Challenges](https://medium.com/@noamsauerutley) (note: many of these post are from my earliest learn-to-code days, and are now out of date and full of cringe. Going back to refactor that code is on my to-do list), and collecting hobbies.
 
