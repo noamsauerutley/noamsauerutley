@@ -15,7 +15,7 @@ I first learned how to mess with web pages through the <a href="http://www.neope
 
 I like functional programming, <a href="https://www.youtube.com/watch?v=krD2_CN72-s">Data's Poetry</a>, writing [Javascript Solutions to Common Algorithm Challenges](https://medium.com/@noamsauerutley)¹, and collecting hobbies.
 
-I live in ~~Texas~~ ~~Brooklyn, NY~~ Pembroke, Bermuda.
+I live in ~~Texas~~ ~~Brooklyn~~ Bermuda.
 
 ¹ _Many of these post are from my very early learn-to-code days, and are now out of date and full of cringe. Going back to refactor them is on my to-do list. In the meantime, I'm sorry. I don't know why I used `let` so much._
 </p>
