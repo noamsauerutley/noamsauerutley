@@ -11,11 +11,13 @@
   
 hi! 👋🏻
 
-I first learned how to mess with web pages thx to the <a href="http://www.neopets.com/help/html1.phtml">Neopets HTML Guide</a>, went on to complete <a href="https://flatironschool.com/career-courses/coding-bootcamp">Flatiron School's Software Engineering program</a>, and now build things for <a href="https://parallelmarkets.com/">Parallel Markets</a>.
+I first learned how to mess with web pages thx to the <a href="http://www.neopets.com/help/html1.phtml">Neopets HTML Guide</a>, spent my teen years cracking into placed I didn't belong (both off & online 🙃), later completed <a href="https://flatironschool.com/career-courses/coding-bootcamp">Flatiron School's Software Engineering program</a>, and now build things for <a href="https://parallelmarkets.com/">Parallel Markets</a>.
 
 I like functional programming, <a href="https://www.youtube.com/watch?v=krD2_CN72-s">Data's Poetry</a>, writing [Javascript Solutions to Common Algorithm Challenges](https://medium.com/@noamsauerutley)¹, and collecting hobbies.
 
-I live in ~~Texas~~ ~~Brooklyn~~ Bermuda.
+If you're an emerging developer and have a question or want to chat, feel free to <a href="mailto:noamsauerutley@gmail.com">shoot me an email 📧</a>.
+
+I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
 
 ¹ _Many of these post are from my early learn-to-code days, and are now out of date and full of cringe. Going back to refactor them is on my to-do list. In the meantime, I'm sorry. I don't know why I used `let` so much._
 </p>
