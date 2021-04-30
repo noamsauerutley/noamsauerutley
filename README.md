@@ -15,7 +15,7 @@ I first learned how to mess with web pages thx to the <a href="http://www.neopet
 
 I like functional programming, writing [Javascript Solutions to Common Algorithm Challenges](https://medium.com/@noamsauerutley)¹, and collecting hobbies.
 
-If you're an emerging developer and have a question or want to chat, feel free to <a href="mailto:noamsauerutley@gmail.com">shoot me an email 📧</a>.
+If you're an emerging developer and have a question, feel free to <a href="mailto:noamsauerutley@gmail.com">shoot me an email 📧</a>, but please know my response time may be days or weeks.
 
 I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
 
