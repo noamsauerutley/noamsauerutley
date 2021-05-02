@@ -13,7 +13,7 @@ hi! 👋🏻
 
 I first learned how to mess with web pages thx to the <a href="http://www.neopets.com/help/html1.phtml">Neopets HTML Guide</a>, spent my teen years cracking into places I didn't belong (both off & online 🙃), went on to complete <a href="https://flatironschool.com/career-courses/coding-bootcamp">Flatiron School's Software Engineering program</a>, and now build things at <a href="https://parallelmarkets.com/">Parallel Markets</a>.
 
-I like functional programming, writing [Javascript Solutions to Common Algorithm Challenges](https://medium.com/@noamsauerutley)¹, and collecting hobbies.
+I like functional programming, <a href="https://open.spotify.com/playlist/1XgmNeGsnKVn30A40PMC4b?si=YgULR1QiRkGgriIf6z7JwQ">music</a>, writing [Javascript Solutions to Common Algorithm Challenges](https://medium.com/@noamsauerutley)¹, and collecting hobbies.
 
 If you're an emerging developer and have a question, feel free to <a href="mailto:noamsauerutley@gmail.com">shoot me an email 📧</a>, but please know my response time may be days or weeks.
 
