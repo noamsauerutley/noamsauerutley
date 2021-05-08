@@ -4,7 +4,7 @@
 </p>
   
 #### hi! 👋🏻
-I first began dev-ing the web as a kid thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and a compulsion to crack into places I wasn't allowed. 
+My first forays into dev-ing the web were thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and the compulsion to crack into places I wasn't allowed. 
 
 A few years + a niche liberal arts degree later, I got super bored working in floral design and attended [Flatiron School's Software Engineering program](https://flatironschool.com/career-courses/coding-bootcamp). 
 
