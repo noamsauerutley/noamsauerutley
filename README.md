@@ -12,19 +12,6 @@ Now I build cool things with <a href="https://elixir-lang.org/"><img alt="elixir
 
 I like functional programming, [writing accessible JavaScript Solutions to Algorithm Challenges](https://medium.com/@noamsauerutley)¹, and collecting hobbies.
 
-In **5** years on Github, I've pushed **1029** commits, submitted **616** pull requests, and received **43** stars in **74** public repos² using:
-
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B1)
-![Ruby](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23701516&message=Ruby%EF%B8%B1)
-![Vim script](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23199f4b&message=Vim%20script%EF%B8%B1)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B1)
-![Elixir](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%236e4a7e&message=Elixir%EF%B8%B1)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B1)
-![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B1)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B1)
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B1)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B1)
-
 I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
 
 <p>
