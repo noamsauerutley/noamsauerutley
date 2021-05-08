@@ -6,7 +6,7 @@
 #### hi! 👋🏻
 My earliest forays into dev-ing the web came thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and a compulsion to crack into places I wasn't allowed. 
 
-A few years + a niche liberal arts degree later, I got super bored working in floral design, but still hadn't gotten bored with playing with the internet.
+A few years + a niche liberal arts degree later, I got super bored working in floral design, but still hadn't gotten bored playing with the internet.
 
 I attended [Flatiron School's Software Engineering program](https://flatironschool.com/career-courses/coding-bootcamp). 
 
