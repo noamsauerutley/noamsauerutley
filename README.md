@@ -12,7 +12,7 @@ I attended [Flatiron School's Software Engineering program](https://flatironscho
 
 When I was just getting started, I was frustated by the lack of algorithm-solving resources in JavaScript, [so I wrote some](https://medium.com/@noamsauerutley). 
 
-I'm currently playing in [Haskell](https://www.haskell.org/), [Ramda](https://ramdajs.com/), and [WASM](https://webassembly.org/).
+I'm currently puttering in [Haskell](https://www.haskell.org/), [Ramda](https://ramdajs.com/), and [WASM](https://webassembly.org/).
 
 I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
 
