@@ -12,7 +12,8 @@ Now I build cool things at [Parallel Markets](https://parallelmarkets.com/) usin
 
 I'm no longer bored at work.
 
-I like functional programming, [writing accessible JavaScript Solutions to Algorithm Challenges](https://medium.com/@noamsauerutley)¹, and collecting hobbies. I'm currently playing in: <a href="https://www.haskell.org/"><img alt="haskell" src="https://img.shields.io/badge/Haskell-informational?style=flat&logo=haskell&logoColor=9ba4b4&color=31363e"></a> <a href="https://webassembly.org/"><img alt="WebAssembly" src="https://img.shields.io/badge/WASM-informational?style=flat&logo=WebAssembly&logoColor=9ba4b4&color=31363e"></a>
+I like functional programming, [writing accessible JavaScript Solutions to Algorithm Challenges](https://medium.com/@noamsauerutley)¹, and collecting hobbies. 
+I'm currently playing in: <a href="https://www.haskell.org/"><img alt="haskell" src="https://img.shields.io/badge/Haskell-informational?style=flat&logo=haskell&logoColor=9ba4b4&color=31363e"></a> <a href="https://webassembly.org/"><img alt="WebAssembly" src="https://img.shields.io/badge/WASM-informational?style=flat&logo=WebAssembly&logoColor=9ba4b4&color=31363e"></a>
 
 I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
 
