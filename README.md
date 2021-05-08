@@ -4,7 +4,7 @@
 </p>
   
 #### hi! 👋🏻
-My earliest forays into dev-ing the web came thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and a compulsion to crack into places I wasn't allowed. 
+My earliest forays into dev-ing the web came thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and a compulsion to crack into places where I wasn't supposed to go. 
 
 A few years + a niche liberal arts degree later, I'd gotten super bored working in floral design. I still hadn't gotten tired of tinkering with the web.
 
