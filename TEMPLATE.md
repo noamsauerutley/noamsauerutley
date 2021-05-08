@@ -25,7 +25,7 @@ I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
 ² _a range of days to weeks_
 </p>
 
-### Stats:
+#### Stats (puttering-only)
 
 In **{{ ACCOUNT_AGE }}** years on Github, I've pushed **{{ COMMITS }}** commits, submitted **{{ PULL_REQUESTS }}** pull requests, and received **{{ STARS }}** stars in **{{ REPOSITORIES }}** public repos using:
 
