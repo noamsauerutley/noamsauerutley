@@ -17,7 +17,7 @@ I first learned how to mess with web pages thx to the <a href="http://www.neopet
 I like functional programming, <a href="https://open.spotify.com/playlist/1XgmNeGsnKVn30A40PMC4b?si=YgULR1QiRkGgriIf6z7JwQ">music</a>, [writing Javascript Solutions to Common Algorithm Challenges](https://medium.com/@noamsauerutley)¹, and collecting hobbies.
 </p>
 
-In **5** years on Github, I've pushed **1009** commits, submitted **616** pull requests, and received **43** stars in **72** public repos³ using:
+In **5** years on Github, I've pushed **1010** commits, submitted **616** pull requests, and received **43** stars in **72** public repos² using:
 
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B1)
 ![Ruby](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23701516&message=Ruby%EF%B8%B1)
