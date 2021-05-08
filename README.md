@@ -8,12 +8,10 @@ My earliest forays into dev-ing the web came thx to the [Neopets HTML Guide](htt
 
 A few years + a niche liberal arts degree later, I got super bored working in floral design and attended [Flatiron School's Software Engineering program](https://flatironschool.com/career-courses/coding-bootcamp). 
 
-Now I build cool things at [Parallel Markets](https://parallelmarkets.com/) using: <a href="https://elixir-lang.org/"><img alt="elixir" src="https://img.shields.io/badge/Elixir-informational?style=flat&logo=elixir&logoColor=9ba4b4&color=31363e"></a> <a href="https://graphql.org/"><img alt="graphql" src="https://img.shields.io/badge/Graphql-informational?style=flat&logo=graphql&logoColor=9ba4b4&color=31363e"></a> <a href="https://reactjs.org/"><img alt="react" src="https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=9ba4b4&color=31363e"></a> 
-
-I'm no longer bored at work.
+Now I build cool things at [Parallel Markets](https://parallelmarkets.com/) with [Elixir](https://elixir-lang.org), [Graphql](https://graphql.org/), and [React](https://reactjs.org/). I'm no longer bored at work.
 
 I like functional programming, [writing accessible JavaScript Solutions to Algorithm Challenges](https://medium.com/@noamsauerutley)¹, and collecting hobbies. 
-I'm currently playing in: <a href="https://www.haskell.org/"><img alt="haskell" src="https://img.shields.io/badge/Haskell-informational?style=flat&logo=haskell&logoColor=9ba4b4&color=31363e"></a> <a href="https://webassembly.org/"><img alt="WebAssembly" src="https://img.shields.io/badge/WASM-informational?style=flat&logo=WebAssembly&logoColor=9ba4b4&color=31363e"></a>
+I'm currently playing in [Haskell](https://www.haskell.org/) and [WASM](https://webassembly.org/).
 
 I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
 
