@@ -10,13 +10,10 @@ A few years + a niche liberal arts degree later, I got super bored working in fl
 
 Now I build cool things at [Parallel Markets](https://parallelmarkets.com/) with [Elixir](https://elixir-lang.org), [Graphql](https://graphql.org/), and [React](https://reactjs.org/). I'm no longer bored at work.
 
-When I was just getting started, I got frustated by the lack of algorithm-solving resources in JavaScript, [so I wrote some](https://medium.com/@noamsauerutley). 
+When I was just getting started, I was frustated by the lack of algorithm-solving resources in JavaScript, [so I wrote some](https://medium.com/@noamsauerutley). 
 
 I'm currently playing in [Haskell](https://www.haskell.org/), [Ramda](https://ramdajs.com/), and [WASM](https://webassembly.org/).
 
 I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
 
-<p>
-If you're an emerging developer (especially underrepped / non-trad-background ppl) feel free to <a href="mailto:noamsauerutley@gmail.com">shoot me an email 📧</a>, but please know that it might be a bit before I get back to you.
-</p>
-
+If you're an emerging developer (especially underrepped / non-trad-background ppl) feel free to email directly at noamsauerutley@gmail.com if you have any questions or want to chat, but please know that I spend a very limited amount of time on online comms, so it may be days or weeks before I get back to you. 
