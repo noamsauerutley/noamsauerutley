@@ -17,7 +17,7 @@ I first learned how to mess with web pages thx to the <a href="http://www.neopet
 I like functional programming, <a href="https://open.spotify.com/playlist/1XgmNeGsnKVn30A40PMC4b?si=YgULR1QiRkGgriIf6z7JwQ">music</a>, [writing Javascript Solutions to Common Algorithm Challenges](https://medium.com/@noamsauerutley)¹, and collecting hobbies.
 </p>
 
-In **{{ ACCOUNT_AGE }}** years on Github, I've pushed **{{ COMMITS }}** commits, submitted **{{ PULL_REQUESTS }}** pull requests, and received **{{ STARS }}** stars in **{{ REPOSITORIES }}** public repos³ using:
+In **{{ ACCOUNT_AGE }}** years on Github, I've pushed **{{ COMMITS }}** commits, submitted **{{ PULL_REQUESTS }}** pull requests, and received **{{ STARS }}** stars in **{{ REPOSITORIES }}** public repos² using:
 
 {{ LANGUAGE_TEMPLATE_START:max=15 }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1)
