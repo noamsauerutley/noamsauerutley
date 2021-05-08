@@ -14,11 +14,11 @@ In **{{ ACCOUNT_AGE }}** years on Github, I've pushed **{{ COMMITS }}** commits,
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1)
 {{ LANGUAGE_TEMPLATE_END }}
 
+I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
+
 <p>
 If you're an emerging developer and have a question, feel free to <a href="mailto:noamsauerutley@gmail.com">shoot me an email 📧</a>, but please know that it might be a bit before I get back to you.
 </p>
-
-I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
 
 ¹ _Many of these posts are from my early learn-to-code days, and now look pretty cringe to me. I have vague aspirations of refactoring them, but it's not at the top of my to-do list. If you read them, IDK why I used `let` so much either._
 
