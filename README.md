@@ -17,5 +17,3 @@ I'm currently playing in [Haskell](https://www.haskell.org/), [Ramda](https://ra
 I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
 
 If you're an emerging developer (especially y'all who are underrepresented or coming from non-traditional backgrounds in tech), please feel free to email me directly at noamsauerutley@gmail.com if you have any questions or want to chat. Also: please know that I dedicate a limited amount of time to online comms, so it may be a bit before I can get back to you. 
-
-Please excuse me from inclusion in any "Girls who code" / "Women in STEM" content, and from requests for mentorship as such. I simply do not have requisite relevant experience.
