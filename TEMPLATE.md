@@ -20,6 +20,6 @@ I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
 If you're an emerging developer and have a question, feel free to <a href="mailto:noamsauerutley@gmail.com">shoot me an email 📧</a>, but please know that it might be a bit before I get back to you.
 </p>
 
-¹ _Many of these posts are from my early learn-to-code days, and now look pretty cringe to me. I have vague aspirations of refactoring them, but it's not at the top of my to-do list. If you read them, IDK why I used `let` so much either._
+¹ _These posts are from my early learn-to-code days, and now look pretty cringe to me. I have vague aspirations of refactoring them, but it's not at the top of my to-do list. If you read them, IDK why I used `let` so much either._
 
 ² _these reflect hobby projects, personal programming, and general puttering only_
