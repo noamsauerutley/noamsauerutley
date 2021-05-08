@@ -4,6 +4,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Elixir-informational?style=flat&logo=elixir&logoColor=9ba4b4&color=31363e" />
     <img src="https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=9ba4b4&color=31363e" />
+    <img src="https://img.shields.io/badge/Golang-informational?style=flat&logo=go&logoColor=9ba4b4&color=31363e" />
     <img src="https://img.shields.io/badge/Graphql-informational?style=flat&logo=graphql&logoColor=9ba4b4&color=31363e" />
     <img src="https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=9ba4b4&color=31363e" />
     <img src="https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=9ba4b4&color=31363e" />
@@ -23,3 +24,14 @@ I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
 
 ² _a range of days to weeks_
 </p>
+
+### Stats:
+
+In **5** years on Github, I've pushed **996** commits, submitted **616** pull requests, received **43** stars, and own **72** repositories.
+
+My 4 most used languages in these repos are:
+
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B178.9%25)
+![Ruby](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23701516&message=Ruby%EF%B8%B19.6%25)
+![Vim script](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23199f4b&message=Vim%20script%EF%B8%B14.1%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B17.2%25)
