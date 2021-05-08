@@ -29,8 +29,7 @@ I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
 
 In **{{ ACCOUNT_AGE }}** years on Github, I've pushed **{{ COMMITS }}** commits, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars, and own **{{ REPOSITORIES }}** repositories.
 
-My 4 most used languages in these repos are:
-
+My 4 most used languages in public repos are:
 {{ LANGUAGE_TEMPLATE_START:max=4 }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
