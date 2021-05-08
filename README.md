@@ -27,8 +27,12 @@ I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
 
 ### Stats:
 
-In **5** years on Github, I've pushed **999** commits, submitted **616** pull requests, and received **43** stars in **72** public repos using:
+In **5** years on Github, I've pushed **1000** commits, submitted **616** pull requests, and received **43** stars in **72** public repos using:
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B178.9%25)
 ![Ruby](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23701516&message=Ruby%EF%B8%B19.6%25)
 ![Vim script](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23199f4b&message=Vim%20script%EF%B8%B14.1%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B17.2%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B12.1%25)
+![Elixir](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%236e4a7e&message=Elixir%EF%B8%B12%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B11%25)
+![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B10.8%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.1%25)
