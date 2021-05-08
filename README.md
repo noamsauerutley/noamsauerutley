@@ -9,7 +9,7 @@ My earliest forays into dev-ing the web came thx to the [Neopets HTML Guide](htt
 A few years + a niche liberal arts degree later, I'd gotten super bored working in floral design.\
 I still hadn't gotten tired of tinkering around with the web.
 
-I attended [Flatiron School's Software Engineering program](https://flatironschool.com/career-courses/coding-bootcamp), and got a lot better at tinkering with the web.\ 
+I attended [Flatiron School's Software Engineering program](https://flatironschool.com/career-courses/coding-bootcamp), and got a lot better at tinkering with the web.\
 Now I build cool things at [Parallel Markets](https://parallelmarkets.com/) with [Elixir](https://elixir-lang.org), [Graphql](https://graphql.org/), and [React](https://reactjs.org/). (I'm not bored at work anymore.)
 
 When I was just getting started, my friends and I were frustated by the lack of algorithm-solving resources written in JavaScript, [so I wrote some](https://medium.com/@noamsauerutley). 
