@@ -16,7 +16,7 @@ When I was just getting started, my friends and I were frustated by the lack of 
 
 I'm currently puttering in [Haskell](https://www.haskell.org/), [Ramda](https://ramdajs.com/), and [WASM](https://webassembly.org/).
 
-I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
+I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use **they/them** pronouns.
 
 If you're an emerging developer (especially y'all who are underrepresented or coming from non-traditional backgrounds in tech), please feel free to email me directly at noamsauerutley@gmail.com with questions or to set up a time to chat. 
 Also: please know that I dedicate a limited amount of time to online comms, so it may be a bit before I can get back to you. 
