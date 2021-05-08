@@ -10,7 +10,8 @@ A few years + a niche liberal arts degree later, I got super bored working in fl
 
 Now I build cool things at [Parallel Markets](https://parallelmarkets.com/) with [Elixir](https://elixir-lang.org), [Graphql](https://graphql.org/), and [React](https://reactjs.org/). I'm no longer bored at work.
 
-I like functional programming, [writing accessible JavaScript Solutions to Algorithm Challenges](https://medium.com/@noamsauerutley)¹, and collecting hobbies.
+When I was just getting started, I got frustated by the lack of algorithm-solving resources in JavaScript, [so I wrote some](https://medium.com/@noamsauerutley). 
+
 I'm currently playing in [Haskell](https://www.haskell.org/), [Ramda](https://ramdajs.com/), and [WASM](https://webassembly.org/).
 
 I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
@@ -19,4 +20,3 @@ I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
 If you're an emerging developer (especially underrepped / non-trad-background ppl) feel free to <a href="mailto:noamsauerutley@gmail.com">shoot me an email 📧</a>, but please know that it might be a bit before I get back to you.
 </p>
 
-¹ _These posts are from my early learn-to-code days, and now look pretty cringe to me. I have vague aspirations of refactoring them, but it's not at the top of my to-do list. If you read them, IDK why I used `let` so much either._
