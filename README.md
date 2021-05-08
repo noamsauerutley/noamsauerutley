@@ -27,10 +27,9 @@ I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
 
 ### Stats:
 
-In **5** years on Github, I've pushed **996** commits, submitted **616** pull requests, received **43** stars, and own **72** repositories.
+In **5** years on Github, I've pushed **997** commits, submitted **616** pull requests, received **43** stars, and own **72** repositories.
 
-My 4 most used languages in these repos are:
-
+My 4 most used languages in public repos are:
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B178.9%25)
 ![Ruby](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23701516&message=Ruby%EF%B8%B19.6%25)
 ![Vim script](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23199f4b&message=Vim%20script%EF%B8%B14.1%25)
