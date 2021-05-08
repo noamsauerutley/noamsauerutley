@@ -27,7 +27,7 @@ I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
 
 ### Stats:
 
-In **5** years on Github, I've pushed **1003** commits, submitted **616** pull requests, and received **43** stars in **72** public repos using:
+In **5** years on Github, I've pushed **1004** commits, submitted **616** pull requests, and received **43** stars in **72** public repos using:
 
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B1)
 ![Ruby](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23701516&message=Ruby%EF%B8%B1)
