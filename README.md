@@ -6,13 +6,13 @@
 #### hi! 👋🏻
 I first began dev-ing the web as a kid thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and a compulsion to crack into places I wasn't allowed. 
 
-A few years & one niche liberal arts degree later, I got really bored in my role as a Director of Floral & Event Design (tl;dr building flower walls), so I quit and completed [Flatiron School's Software Engineering program](https://flatironschool.com/career-courses/coding-bootcamp). 
+A few years & one niche liberal arts degree later, I got really bored working as a Director of Floral & Event Design, so attended [Flatiron School's Software Engineering program](https://flatironschool.com/career-courses/coding-bootcamp). 
 
 Now I build cool things with <a href="https://elixir-lang.org/"><img alt="elixir" src="https://img.shields.io/badge/Elixir-informational?style=flat&logo=elixir&logoColor=9ba4b4&color=31363e"></a> <a href="https://graphql.org/"><img alt="graphql" src="https://img.shields.io/badge/Graphql-informational?style=flat&logo=graphql&logoColor=9ba4b4&color=31363e"></a> <a href="https://reactjs.org/"><img alt="react" src="https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=9ba4b4&color=31363e"></a> at [Parallel Markets](https://parallelmarkets.com/), and am no longer bored at work.
 
-I like functional programming, [writing Javascript Solutions to Common Algorithm Challenges](https://medium.com/@noamsauerutley)¹, and collecting hobbies.
+I like functional programming, [writing accessible JavaScript Solutions to Algorithm Challenges](https://medium.com/@noamsauerutley)¹, and collecting hobbies.
 
-In **5** years on Github, I've pushed **1015** commits, submitted **616** pull requests, and received **43** stars in **72** public repos² using:
+In **5** years on Github, I've pushed **1024** commits, submitted **616** pull requests, and received **43** stars in **73** public repos² using:
 
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B1)
 ![Ruby](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23701516&message=Ruby%EF%B8%B1)
