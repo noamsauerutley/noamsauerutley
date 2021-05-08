@@ -21,9 +21,7 @@ If you're an emerging developer and have a question, feel free to <a href="mailt
 I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
 </p>
 
-#### Stats³
-
-In **{{ ACCOUNT_AGE }}** years on Github, I've pushed **{{ COMMITS }}** commits, submitted **{{ PULL_REQUESTS }}** pull requests, and received **{{ STARS }}** stars in **{{ REPOSITORIES }}** public repos using:
+In **{{ ACCOUNT_AGE }}** years on Github, I've pushed **{{ COMMITS }}** commits, submitted **{{ PULL_REQUESTS }}** pull requests, and received **{{ STARS }}** stars in **{{ REPOSITORIES }}** public repos³ using:
 
 {{ LANGUAGE_TEMPLATE_START:max=15 }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1)
