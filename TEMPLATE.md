@@ -1,21 +1,12 @@
 
 <p align="center">
   <a href="https://www.noamsauerutley.com/"><img width="650" alt="uoleman puutarha by hugo simberg overlaid with url for www.noamsauerutley.com" src="https://user-images.githubusercontent.com/17517253/114214423-aa585280-993a-11eb-985a-48c86a9d9dd0.png"></a>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Elixir-informational?style=flat&logo=elixir&logoColor=9ba4b4&color=31363e" />
-    <img src="https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby&logoColor=9ba4b4&color=31363e" />
-    <img src="https://img.shields.io/badge/Golang-informational?style=flat&logo=go&logoColor=9ba4b4&color=31363e" />
-    <img src="https://img.shields.io/badge/Graphql-informational?style=flat&logo=graphql&logoColor=9ba4b4&color=31363e" />
-    <img src="https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=9ba4b4&color=31363e" />
-    <img src="https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=9ba4b4&color=31363e" />
-  </p>
+</p>
   
 #### hi! 👋🏻
+I first learned how to mess with web pages thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml), spent my teen years cracking into places I didn't belong (both off & online 🙃), went on to complete [Flatiron School's Software Engineering program](https://flatironschool.com/career-courses/coding-bootcamp), and now build things with Elixir, Graphql, & React at [Parallel Markets](https://parallelmarkets.com/).
 
-I first learned how to mess with web pages thx to the <a href="http://www.neopets.com/help/html1.phtml">Neopets HTML Guide</a>, spent my teen years cracking into places I didn't belong (both off & online 🙃), went on to complete <a href="https://flatironschool.com/career-courses/coding-bootcamp">Flatiron School's Software Engineering program</a>, and now build things with Elixir, Graphql, & React at <a href="https://parallelmarkets.com/">Parallel Markets</a>.
-
-I like functional programming, <a href="https://open.spotify.com/playlist/1XgmNeGsnKVn30A40PMC4b?si=YgULR1QiRkGgriIf6z7JwQ">music</a>, [writing Javascript Solutions to Common Algorithm Challenges](https://medium.com/@noamsauerutley)¹, and collecting hobbies.
-</p>
+I like functional programming, [writing Javascript Solutions to Common Algorithm Challenges](https://medium.com/@noamsauerutley)¹, and collecting hobbies.
 
 In **{{ ACCOUNT_AGE }}** years on Github, I've pushed **{{ COMMITS }}** commits, submitted **{{ PULL_REQUESTS }}** pull requests, and received **{{ STARS }}** stars in **{{ REPOSITORIES }}** public repos² using:
 
