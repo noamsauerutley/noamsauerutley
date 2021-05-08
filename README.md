@@ -8,7 +8,7 @@ I first learned how to mess with web pages thx to the [Neopets HTML Guide](http:
 
 I like functional programming, [writing Javascript Solutions to Common Algorithm Challenges](https://medium.com/@noamsauerutley)¹, and collecting hobbies.
 
-In **5** years on Github, I've pushed **1013** commits, submitted **616** pull requests, and received **43** stars in **72** public repos² using:
+In **5** years on Github, I've pushed **1014** commits, submitted **616** pull requests, and received **43** stars in **72** public repos² using:
 
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B1)
 ![Ruby](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23701516&message=Ruby%EF%B8%B1)
@@ -27,6 +27,6 @@ I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use they/them pronouns.
 If you're an emerging developer and have a question, feel free to <a href="mailto:noamsauerutley@gmail.com">shoot me an email 📧</a>, but please know that it might be a bit before I get back to you.
 </p>
 
-¹ _Many of these posts are from my early learn-to-code days, and now look pretty cringe to me. I have vague aspirations of refactoring them, but it's not at the top of my to-do list. If you read them, IDK why I used `let` so much either._
+¹ _These posts are from my early learn-to-code days, and now look pretty cringe to me. I have vague aspirations of refactoring them, but it's not at the top of my to-do list. If you read them, IDK why I used `let` so much either._
 
 ² _these reflect hobby projects, personal programming, and general puttering only_
