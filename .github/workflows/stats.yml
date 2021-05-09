@@ -18,7 +18,7 @@ jobs:
       with:
         fetch-depth: 0
     - name: CpD39C9tJwpThc
-      uses: noamsauerutley/CpD39C9tJwpThc@v1
+      uses: noamsauerutley/CpD39C9tJwpThc@v1.1
       with:
         token: ${{ secrets.README_STATS_TOKEN }}
     - name: Update README.md
