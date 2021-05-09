@@ -1,11 +1,8 @@
-# This is a basic workflow to help you get started with Actions
-
 name: CI
 
-# Controls when the action will run. 
 on:
   schedule:     
-    - cron: '0 */12 * * *' # every 12 hours
+    - cron: '0 */12 * * *'
   push:
     branches: [ master ]
   pull_request:
@@ -21,7 +18,7 @@ jobs:
       with:
         fetch-depth: 0
     - name: Generate README.md
-      uses: noamsauerutley/readme-stats@v1
+      uses: noamsauerutley/CpD39C9tJwpThc@v1
       with:
         token: ${{ secrets.README_STATS_TOKEN }}
     - name: Update README.md
