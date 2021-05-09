@@ -17,7 +17,7 @@ jobs:
     - uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    - name: Generate README.md
+    - name: CpD39C9tJwpThc
       uses: noamsauerutley/CpD39C9tJwpThc@v1
       with:
         token: ${{ secrets.README_STATS_TOKEN }}
