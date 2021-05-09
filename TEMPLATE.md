@@ -21,7 +21,7 @@ I live in ~~Texas~~ ~England~ ~~Brooklyn~~ Bermuda & use **they/them** pronouns.
 If you're an emerging developer (especially if you're underrepresented or coming from non-traditional background for tech), please feel free to email me directly at noamsauerutley@gmail.com with questions or to find a time to chat.\
 I dedicate a limited amount of time to online comms, so it may be a bit before I can get back to you. 
 
-In **{{ ACCOUNT_AGE }}** years on Github, I've pushed **{{ COMMITS }}** commits, submitted **{{ PULL_REQUESTS }}** pull requests, and received **{{ STARS }}** stars in **{{ REPOSITORIES }}** hobby repos using:
+In **{{ ACCOUNT_AGE }}** years on Github, I've pushed **{{ COMMITS }}** commits, submitted **{{ PULL_REQUESTS }}** pull requests, and received **{{ STARS }}** stars in **{{ REPOSITORIES }}** hobby repos using:\
 {{ LANGUAGE_TEMPLATE_START:max=10 }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1)
 {{ LANGUAGE_TEMPLATE_END }}
