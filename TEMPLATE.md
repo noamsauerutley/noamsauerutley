@@ -14,7 +14,7 @@ Now I build cool things at [Parallel Markets](https://parallelmarkets.com/) with
 
 When I was just getting started, my friends and I were frustated by the lack of algorithm-solving resources written in JavaScript, [so I wrote some](https://medium.com/@noamsauerutley). 
 
-I live in ~~Texas~~ ~England~ ~~Brooklyn~~ Bermuda & use **they/them** pronouns.
+I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use **they/them** pronouns.
 
 If you're an emerging developer (especially if you're underrepresented or coming from non-traditional background for tech), please feel free to email me directly at noamsauerutley@gmail.com with questions or to find a time to chat.\
 I dedicate a limited amount of time to online comms, so it may be a bit before I can get back to you. 
