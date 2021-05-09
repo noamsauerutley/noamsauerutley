@@ -14,7 +14,7 @@ Now I build cool things at [Parallel Markets](https://parallelmarkets.com/) with
 
 When I was just getting started, my friends and I were frustated by the lack of algorithm-solving resources written in JavaScript, [so I wrote some](https://medium.com/@noamsauerutley). 
 
-I'm currently puttering in [Ramda](https://ramdajs.com/), [Haskell](https://www.haskell.org/), [Ramda](https://ramdajs.com/), and [WASM](https://webassembly.org/).
+I'm currently puttering in [Ramda](https://ramdajs.com/), [Haskell](https://www.haskell.org/), and [WASM](https://webassembly.org/).
 
 I live in ~~Texas~~ ~England~ ~~Brooklyn~~ Bermuda & use **they/them** pronouns.
 
