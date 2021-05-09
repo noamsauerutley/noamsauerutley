@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://www.noamsauerutley.com/"><img width="550" alt="Uoleman Puutarha by Hugo Simberg overlaid with url for www.noamsauerutley.com" src="https://user-images.githubusercontent.com/17517253/114214423-aa585280-993a-11eb-985a-48c86a9d9dd0.png"></a>
+  <a href="https://www.noamsauerutley.com"><img width="550" alt="Uoleman Puutarha by Hugo Simberg overlaid with url for www.noamsauerutley.com" src="https://user-images.githubusercontent.com/17517253/114214423-aa585280-993a-11eb-985a-48c86a9d9dd0.png"></a>
 </p>
   
 #### hi! 👋🏻
@@ -19,7 +19,7 @@ I live in ~~Texas~~ ~England~ ~~Brooklyn~~ Bermuda & use **they/them** pronouns.
 If you're an emerging developer (especially if you're underrepresented or coming from non-traditional background for tech), please feel free to email me directly at noamsauerutley@gmail.com with questions or to find a time to chat.\
 I dedicate a limited amount of time to online comms, so it may be a bit before I can get back to you. 
 
-In **5** years on Github, I've pushed **1488** commits, submitted **281** pull requests, and received **44** stars in **73** hobby repos using:\
+In **5** years on Github, I've pushed **1489** commits, submitted **281** pull requests, and received **44** stars in **73** hobby repos using:\
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B1)
 ![Ruby](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23701516&message=Ruby%EF%B8%B1)
 ![Vim script](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23199f4b&message=Vim%20script%EF%B8%B1)
