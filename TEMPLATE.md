@@ -6,13 +6,9 @@
 #### hi! 👋🏻
 My earliest forays into dev-ing the web came thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and a compulsion to crack into places I wasn't supposed to. 
 
-A few years + a niche liberal arts degree later, I was super bored and burnt out in my role as a Director of Floral Design. I still wasn't bored by tinkering around with the web.
-
-I attended [Flatiron School's Software Engineering program](https://flatironschool.com/career-courses/coding-bootcamp), where I focused on getting better at building stuff for the web instead of just playing around with it.
-
 Now I build cool things at [Parallel Markets](https://parallelmarkets.com/) with [Elixir](https://elixir-lang.org), [Graphql](https://graphql.org/), and [React](https://reactjs.org/).
 
-When I was just getting started, my friends and I were frustated by the lack of algorithm-solving resources written in JavaScript, [so I wrote some](https://medium.com/@noamsauerutley). 
+When I started getting serious about programming, I was frustated by the lack of algorithm-solving resources written in JavaScript, [so I wrote some](https://medium.com/@noamsauerutley). 
 
 I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use **they/them** pronouns.
 
