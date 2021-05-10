@@ -8,8 +8,6 @@ My earliest forays into dev-ing the web came thx to the [Neopets HTML Guide](htt
 
 Now I build cool things at [Parallel Markets](https://parallelmarkets.com/) with [Elixir](https://elixir-lang.org), [Graphql](https://graphql.org/), and [React](https://reactjs.org/).
 
-Back when I was first starting to get serious about programming, I was frustated by the lack of JavaScript language algorithm-solving resources, [so I wrote some](https://medium.com/@noamsauerutley). 
-
 I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use **they/them** pronouns.
 
 If you're an emerging developer (especially if you're underrepresented or coming from non-traditional background), please feel free to email me directly at noamsauerutley@gmail.com.\
