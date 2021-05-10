@@ -13,7 +13,7 @@ I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use **they/them** pronouns.
 If you're an emerging developer (especially if you're underrepresented or coming from non-traditional background), please feel free to email me directly at noamsauerutley@gmail.com.\
 I dedicate a limited amount of time to online comms, so it may be a bit before I can get back to you. 
 
-Most of my code lives in private repos, but in **5** years on Github, I've pushed **1526** commits, submitted **281** pull requests, and received **44** stars to **73** public repos using:\
+Most of my code lives in private repos, but in **5** years on Github, I've pushed **1527** commits, submitted **281** pull requests, and received **44** stars to **73** public repos using:\
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B1)
 ![Ruby](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23701516&message=Ruby%EF%B8%B1)
 ![Vim script](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23199f4b&message=Vim%20script%EF%B8%B1)
@@ -24,5 +24,5 @@ Most of my code lives in private repos, but in **5** years on Github, I've pushe
 ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B1)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B1)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B1)
-
+ \
 _stats are auto-generated & update daily_
