@@ -12,7 +12,7 @@ Back when I was first starting to get serious about programming, I was frustated
 
 I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use **they/them** pronouns.
 
-If you're an emerging developer (especially if you're underrepresented or coming from non-traditional background), please feel free to email me directly at noamsauerutley@gmail.com with questions or to find a time to chat.\
+If you're an emerging developer (especially if you're underrepresented or coming from non-traditional background), please feel free to email me directly at noamsauerutley@gmail.com.\
 I dedicate a limited amount of time to online comms, so it may be a bit before I can get back to you. 
 
 Most of my code lives in private repos, but in **{{ ACCOUNT_AGE }}** years on Github, I've pushed **{{ COMMITS }}** commits, submitted **{{ PULL_REQUESTS }}** pull requests, and received **{{ STARS }}** stars to **{{ REPOSITORIES }}** public repos using:\
