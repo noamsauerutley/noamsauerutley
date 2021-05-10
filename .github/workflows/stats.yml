@@ -21,7 +21,7 @@ jobs:
       uses: noamsauerutley/CpD39C9tJwpThc@1.2
       with:
         token: ${{ secrets.README_STATS_TOKEN }}
-    - name: Update README.md stats
+    - name: Update README.md template stats
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
         git config user.name github-actions[bot]
