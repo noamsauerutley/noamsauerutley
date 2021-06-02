@@ -8,7 +8,7 @@ My earliest forays into dev-ing the web came thx to the [Neopets HTML Guide](htt
 
 Now I build cool things at [Parallel Markets](https://parallelmarkets.com/) with [Elixir](https://elixir-lang.org), [Graphql](https://graphql.org/), and [React](https://reactjs.org/).
 
-I live in ~~Texas~~ ~~Brooklyn~~ Bermuda & use **they/them** pronouns.
+I live in ~~Texas~~ ~~Brooklyn~~ ~Bermuda~ NYC & use **they/them** pronouns.
 
 If you're an emerging developer, please feel free to email me directly at noamsauerutley@gmail.com.\
 I dedicate a limited amount of time to online comms, so it may be a bit before I can get back to you. 
