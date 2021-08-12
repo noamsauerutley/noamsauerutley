@@ -14,7 +14,7 @@ If you're an emerging developer, please feel free to email me directly at noamsa
 I dedicate a limited amount of time to online comms, so it may be a bit before I can get back to you. 
 
 Most of my code lives in private repos, but in **{{ ACCOUNT_AGE }}** years on Github, I've pushed **{{ COMMITS }}** commits, submitted **{{ PULL_REQUESTS }}** pull requests, and received **{{ STARS }}** stars to **{{ REPOSITORIES }}** public repos using:\
-{{ LANGUAGE_TEMPLATE_START:max=12 }}
+{{ LANGUAGE_TEMPLATE_START:max=10 }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1)
 {{ LANGUAGE_TEMPLATE_END }} \
 _<p align="center">stats auto-generate daily</p>_
