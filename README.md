@@ -13,7 +13,7 @@ I live in ~~Texas~~ ~~Brooklyn~~ ~Bermuda~ NYC & use **they/them** pronouns.
 If you're an emerging developer, please feel free to email me directly at noamsauerutley@gmail.com.\
 I dedicate a limited amount of time to online comms, so it may be a bit before I can get back to you. 
 
-Most of my code lives in private repos, but in **5** years on Github, I've pushed **1679** commits, submitted **281** pull requests, and received **51** stars to **69** public repos using:\
+Most of my code lives in private repos, but in **5** years on Github, I've pushed **1681** commits, submitted **281** pull requests, and received **51** stars to **69** public repos using:\
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B1)
 ![Ruby](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23701516&message=Ruby%EF%B8%B1)
 ![Elixir](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%236e4a7e&message=Elixir%EF%B8%B1)
