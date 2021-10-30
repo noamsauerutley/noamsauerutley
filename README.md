@@ -6,14 +6,16 @@
 #### hi! 👋🏻
 My earliest forays into dev-ing the web came thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and a compulsion to crack into places I wasn't supposed to. 
 
-Now I build cool things at [Parallel Markets](https://parallelmarkets.com/) with [Elixir](https://elixir-lang.org), [Graphql](https://graphql.org/), and [React](https://reactjs.org/).
+Now I solve interesting problems in an [Elixir](https://elixir-lang.org)-based stack at [Parallel Markets](https://parallelmarkets.com/).
 
 I live in ~~Texas~~ ~~Brooklyn~~ ~Bermuda~ NYC & use **they/them** pronouns.
+
+When I'm not programming, I learn language, pick locks, practice Wudang quan, and take care of my plants (orchids, gesneriads, and caudiciforms). 
 
 If you're an emerging developer, please feel free to email me directly at noamsauerutley@gmail.com.\
 I dedicate a limited amount of time to online comms, so it may be a bit before I can get back to you. 
 
-Most of my code lives in private repos, but in **5** years on Github, I've pushed **1755** commits, submitted **281** pull requests, and received **51** stars to **70** public repos using:\
+Most of my code lives in private repos, but in **5** years on Github, I've pushed **1757** commits, submitted **281** pull requests, and received **51** stars to **70** public repos using:\
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B1)
 ![Ruby](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23701516&message=Ruby%EF%B8%B1)
 ![Elixir](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%236e4a7e&message=Elixir%EF%B8%B1)
