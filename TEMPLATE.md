@@ -4,13 +4,13 @@
 </p>
   
 #### hi! 👋🏻
-My earliest forays into dev-ing the web came thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and a compulsion to crack into places I wasn't supposed to. 
+My earliest forays into dev-ing the web came thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and a compulsion to crack into places I wasn't supposed to.
 
 Now I solve interesting problems in an [Elixir](https://elixir-lang.org)-based stack at [Parallel Markets](https://parallelmarkets.com/).
 
 I live in ~~Texas~~ ~~Brooklyn~~ ~Bermuda~ NYC & use **they/them** pronouns.
 
-When I'm not programming, I learn language, pick locks, practice Wudang quan, and take care of my plants (orchids, gesneriads, and caudiciforms). 
+When I'm not programming, I play with language & stories, pick locks, practice Wudang quan, and take care of my plants (orchids, gesneriads, and caudiciforms). 
 
 If you're an emerging developer, please feel free to email me directly at noamsauerutley@gmail.com.\
 I dedicate a limited amount of time to online comms, so it may be a bit before I can get back to you. 
