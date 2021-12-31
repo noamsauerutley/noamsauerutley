@@ -16,7 +16,7 @@ I live in ~~Texas~~ ~~Brooklyn~~ ~Bermuda~ NYC & use **they/them** pronouns.
 
 When I'm not programming, I play with language, listen to noisy music, pick locks, practice Wudang quan, and take care of my plants. 
 
-I like solving small problems, traversing complex systems w/ theory, hard-soft syncretism, and partaking in core human behaviors (e.g. making + eating food, telling + listening to stories, walking around + pointing out cool stuff to look at, etc).
+I like solving small problems, traversing complex systems w/ theory, hard-soft syncretism, and doing human things like making + eating food, telling + listening to stories, and walking around + pointing out cool stuff to look at.
 
 If you're an emerging developer, you can email me directly at noamsauerutley@gmail.com.
 
