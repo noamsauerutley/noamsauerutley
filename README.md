@@ -14,13 +14,13 @@ Now I solve interesting problems in an [Elixir](https://elixir-lang.org)-based s
 
 I live in ~~Texas~~ ~~Brooklyn~~ ~Bermuda~ NYC & use **they/them** pronouns.
 
-When I'm not programming, I play with language, listen to noisy music, pick locks, practice Wudang quan, and take care of my plants (orchids, gesneriads, and caudiciforms). 
+When I'm not programming, I play with language, listen to noisy music, pick locks, practice Wudang quan, and take care of my plants. 
 
 I like solving small problems, traversing complex systems w/ theory, hard-soft syncretism, and partaking in core human behaviors (e.g. making + eating food, telling + listening to stories, walking around + pointing out cool stuff to look at, etc).
 
 If you're an emerging developer, you can email me directly at noamsauerutley@gmail.com.
 
-Most of my code lives in private repos, but in **5** years on Github, I've pushed **1830** commits, submitted **281** pull requests, and received **60** stars to **70** public repos using:\
+Most of my code lives in private repos, but in **5** years on Github, I've pushed **1831** commits, submitted **281** pull requests, and received **60** stars to **70** public repos using:\
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B1)
 ![Ruby](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23701516&message=Ruby%EF%B8%B1)
 ![Elixir](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%236e4a7e&message=Elixir%EF%B8%B1)
