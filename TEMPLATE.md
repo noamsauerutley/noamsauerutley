@@ -16,7 +16,7 @@ When I'm not programming, I play with language, listen to noisy music, pick lock
 
 I like solving small problems, traversing complex systems w/ theory, hard-soft syncretism, and partaking in core human behaviors like making + eating food, telling + listening to stories, and walking around + pointing out cool stuff to look at.
 
-If you're an emerging developer, please feel free to email me directly at noamsauerutley@gmail.com.\
+If you're an emerging developer, you can email me directly at noamsauerutley@gmail.com.
 
 Most of my code lives in private repos, but in **{{ ACCOUNT_AGE }}** years on Github, I've pushed **{{ COMMITS }}** commits, submitted **{{ PULL_REQUESTS }}** pull requests, and received **{{ STARS }}** stars to **{{ REPOSITORIES }}** public repos using:\
 {{ LANGUAGE_TEMPLATE_START:max=12 }}
