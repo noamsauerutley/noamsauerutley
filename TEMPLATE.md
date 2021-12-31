@@ -4,7 +4,9 @@
 </p>
   
 #### hi! 👋🏻
-Before I got access to computers I spent most of my time reading the dictionary and sorting rocks. My earliest forays into dev-ing the web came thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and a compulsion to crack into places & use resources in ways I wasn't supposed to. I studied classics / philosophy / art & spent several years teaching latin, making coffee, and  designing + building large-scale floral installations for money.
+Before I got access to computers I spent most of my time reading the dictionary and sorting rocks. My earliest forays into dev-ing the web came thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and a compulsion to crack into places & use resources in ways I wasn't supposed to. 
+
+I studied classics / philosophy / art (oops) & spent several years teaching latin, making coffee, and  designing + building large-scale floral installations for money.
 
 Now I solve interesting problems in an [Elixir](https://elixir-lang.org)-based stack at [Parallel Markets](https://parallelmarkets.com/).
 
