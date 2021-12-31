@@ -4,7 +4,9 @@
 </p>
   
 #### hi! 👋🏻
-Before I got access to computers I spent most of my time reading the dictionary and sorting rocks. My earliest forays into dev-ing the web came thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and a compulsion to crack into places & use resources in ways I wasn't supposed to. I studied classics / philosophy / art & spent several years teaching latin, making coffee, and  designing + building large-scale floral installations for money.
+Before I got access to computers I spent most of my time reading the dictionary and sorting rocks. My earliest forays into dev-ing the web came thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and a compulsion to crack into places & use resources in ways I wasn't supposed to. 
+
+I studied classics / philosophy / art (oops) & spent several years teaching latin, making coffee, and  designing + building large-scale floral installations for money.
 
 Now I solve interesting problems in an [Elixir](https://elixir-lang.org)-based stack at [Parallel Markets](https://parallelmarkets.com/).
 
@@ -14,7 +16,7 @@ When I'm not programming, I play with language, listen to noisy music, pick lock
 
 If you're an emerging developer, please feel free to email me directly at noamsauerutley@gmail.com.\
 
-Most of my code lives in private repos, but in **5** years on Github, I've pushed **1822** commits, submitted **281** pull requests, and received **60** stars to **70** public repos using:\
+Most of my code lives in private repos, but in **5** years on Github, I've pushed **1823** commits, submitted **281** pull requests, and received **60** stars to **70** public repos using:\
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B1)
 ![Ruby](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23701516&message=Ruby%EF%B8%B1)
 ![Elixir](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%236e4a7e&message=Elixir%EF%B8%B1)
