@@ -14,7 +14,7 @@ Now I solve interesting problems in an [Elixir](https://elixir-lang.org)-based s
 
 I live in ~~Texas~~ ~~Brooklyn~~ ~Bermuda~ NYC & use **they/them** pronouns.
 
-When I'm not programming, I play with language, listen to noisy music, pick locks, practice Wudang quan, and take care of my plants (orchids, gesneriads, and caudiciforms). 
+When I'm not programming, I play with language, listen to noisy music, pick locks, practice Wudang quan, and take care of my plants. 
 
 I like solving small problems, traversing complex systems w/ theory, hard-soft syncretism, and partaking in core human behaviors (e.g. making + eating food, telling + listening to stories, walking around + pointing out cool stuff to look at, etc).
 
