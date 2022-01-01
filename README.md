@@ -4,11 +4,11 @@
 </p>
   
 #### hi! 👋🏻
-Before I got access to computers, I spent most of my time reading the dictionary and sorting rocks.
+Before I got access to computers, I spent most of my time reading the dictionary and sorting rocks. My interests haven't changed much since then.
 
-My earliest forays into dev-ing the web came thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and a compulsion to crack into places / exploit resources in ways I wasn't supposed to. 
+My first forays into dev-ing the web came thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and a compulsion to crack into places / exploit resources in ways I wasn't supposed to. 
 
-I got a classics / philosophy + art degree, then spent several years teaching latin, making coffee, and  designing + building large-scale floral installations for money.
+I went on to get a classics / philosophy + art degree, then spent several years teaching latin, making coffee, and designing + building large-scale floral installations for money.
 
 Now I solve interesting problems in an [Elixir](https://elixir-lang.org)-based stack at [Parallel Markets](https://parallelmarkets.com/).
 
@@ -16,11 +16,11 @@ I live in ~~Texas~~ ~~Brooklyn~~ ~Bermuda~ NYC & use **they/them** pronouns.
 
 When I'm not programming, I play with language, listen to noisy music, pick locks, practice Wudang quan, and take care of my plants. 
 
-I like solving small problems, traversing complex systems w/ theory, hard-soft syncretism, and doing human things like making + eating food, telling + listening to stories, and walking around + pointing out cool stuff to look at.
+I like solving small problems, traversing complex systems w/ theory, hard-soft syncretism, and doing human things like making + eating food, telling + listening to stories, and walking around.
 
 If you're an emerging developer, you can email me directly at noamsauerutley@gmail.com.
 
-Most of my code lives in private repos, but in **5** years on Github, I've pushed **1832** commits, submitted **281** pull requests, and received **60** stars to **70** public repos using:\
+Most of my code lives in private repos, but in **5** years on Github, I've pushed **1834** commits, submitted **281** pull requests, and received **60** stars to **70** public repos using:\
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B1)
 ![Ruby](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23701516&message=Ruby%EF%B8%B1)
 ![Elixir](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%236e4a7e&message=Elixir%EF%B8%B1)
