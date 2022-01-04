@@ -6,7 +6,7 @@
 #### hi! 👋🏻
 Before I got access to computers, I spent most of my time reading the dictionary and sorting rocks. My interests haven't changed too much since.
 
-First forays into dev-ing the web came thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and a compulsion to crack into places / exploit resources I wasn't supposed to. 
+First forays into dev-ing the web came thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and a compulsion to crack into places & exploit resources I wasn't supposed to. 
 
 Got a degree in classics / philosophy + art, then spent several years teaching Latin, making coffee, and designing + building floral installations for money.
 
