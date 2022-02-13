@@ -16,8 +16,6 @@ I live in ~~Texas~~ ~~Brooklyn~~ ~Bermuda~ NYC & use **they/them** pronouns.
 
 When I'm not programming, I play with language, listen to noisy music, pick locks, practice Wudang quan, and take care of my plants. 
 
-I like solving small problems, traversing complex systems w/ theory, hard-soft syncretism, and doing human things like making + eating food, telling + listening to stories, and walking around.
-
 If you're an emerging developer, you can email me directly at noamsauerutley@gmail.com.
 
 Most of my code lives in private repos, but in **{{ ACCOUNT_AGE }}** years on Github, I've pushed **{{ COMMITS }}** commits, submitted **{{ PULL_REQUESTS }}** pull requests, and received **{{ STARS }}** stars to **{{ REPOSITORIES }}** public repos using:\
