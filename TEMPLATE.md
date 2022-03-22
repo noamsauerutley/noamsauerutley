@@ -14,9 +14,11 @@ Now I solve interesting problems in an [Elixir](https://elixir-lang.org)-based s
 
 I live in ~~Texas~~ ~~Brooklyn~~ ~Bermuda~ NYC & use **they/them** pronouns.
 
-When I'm not programming, I play with language, listen to noisy music, pick locks, practice Wudang quan, and take care of my plants. 
+When I'm not programming, I play with language, pick locks, practice Wudang quan, and take care of my plants.
 
 If you're an emerging developer, you can email me directly at noamsauerutley@gmail.com.
+
+![spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=lionlimb&count={10}&unique={true|1|on|yes})
 
 Most of my code lives in private repos, but in **{{ ACCOUNT_AGE }}** years on Github, I've pushed **{{ COMMITS }}** commits, submitted **{{ PULL_REQUESTS }}** pull requests, and received **{{ STARS }}** stars to **{{ REPOSITORIES }}** public repos using:\
 {{ LANGUAGE_TEMPLATE_START:max=12 }}
