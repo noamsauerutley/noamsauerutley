@@ -18,10 +18,9 @@ When I'm not programming, I play with language, pick locks, practice Wudang quan
 
 If you're an emerging developer, you can email me directly at noamsauerutley@gmail.com.
 
-![spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=lionlimb&&width=550)
-
 Most of my code lives in private repos, but in **{{ ACCOUNT_AGE }}** years on Github, I've pushed **{{ COMMITS }}** commits, submitted **{{ PULL_REQUESTS }}** pull requests, and received **{{ STARS }}** stars to **{{ REPOSITORIES }}** public repos using:\
 {{ LANGUAGE_TEMPLATE_START:max=12 }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1)
-{{ LANGUAGE_TEMPLATE_END }} \
-_<p align="center">stats auto-generate daily</p>_
+{{ LANGUAGE_TEMPLATE_END }}
+
+![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=voidfade&width=850)
