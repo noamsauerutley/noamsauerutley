@@ -18,9 +18,7 @@ When I'm not programming, I play with language, pick locks, practice Wudang quan
 
 If you're an emerging developer, you can email me directly at noamsauerutley@gmail.com.
 
-![spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=lionlimb&&width=550)
-
-Most of my code lives in private repos, but in **6** years on Github, I've pushed **1937** commits, submitted **281** pull requests, and received **64** stars to **71** public repos using:\
+Most of my code lives in private repos, but in **6** years on Github, I've pushed **1938** commits, submitted **281** pull requests, and received **64** stars to **71** public repos using:\
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B1)
 ![Ruby](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23701516&message=Ruby%EF%B8%B1)
 ![Elixir](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%236e4a7e&message=Elixir%EF%B8%B1)
@@ -30,5 +28,5 @@ Most of my code lives in private repos, but in **6** years on Github, I've pushe
 ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B1)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B1)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B1)
- \
-_<p align="center">stats auto-generate daily</p>_
+
+![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=voidfade&width=850)
