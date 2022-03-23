@@ -4,21 +4,16 @@
 </p>
   
 #### hi! 👋🏻
-Before I got access to computers, I spent most of my time reading the dictionary and sorting rocks. My interests haven't changed too much since.
 
-First forays into dev-ing the web came thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and a compulsion to crack into places & exploit resources I wasn't supposed to. 
-
-Got a degree in classics / philosophy + art, then spent several years teaching Latin, making coffee, and designing + building floral installations for money.
+My first forays into dev-ing the web came thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and a compulsion to crack into places & exploit resources I wasn't supposed to. 
 
 Now I solve interesting problems in an [Elixir](https://elixir-lang.org)-based stack at [Parallel Markets](https://parallelmarkets.com/).
 
 I live in ~~Texas~~ ~~Brooklyn~~ ~Bermuda~ NYC & use **they/them** pronouns.
 
-When I'm not programming, I play with language, pick locks, practice Wudang quan, and take care of my plants.
-
 If you're an emerging developer, you can email me directly at noamsauerutley@gmail.com.
 
-Most of my code lives in private repos, but in **6** years on Github, I've pushed **1939** commits, submitted **281** pull requests, and received **64** stars to **71** public repos using:\
+Most of my code lives in private repos, but in **6** years on Github, I've pushed **1942** commits, submitted **281** pull requests, and received **64** stars to **71** public repos using:\
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B1)
 ![Ruby](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23701516&message=Ruby%EF%B8%B1)
 ![Elixir](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%236e4a7e&message=Elixir%EF%B8%B1)
@@ -28,5 +23,7 @@ Most of my code lives in private repos, but in **6** years on Github, I've pushe
 ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B1)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B1)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B1)
+
+I'm listening to:
 
 ![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=voidfade&width=700)
