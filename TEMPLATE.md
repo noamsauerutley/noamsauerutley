@@ -1,8 +1,3 @@
-
-<p align="center">
-  <a href="https://www.noamsauerutley.com"><img width="550" alt="Uoleman Puutarha by Hugo Simberg overlaid with url for www.noamsauerutley.com" src="https://user-images.githubusercontent.com/17517253/114214423-aa585280-993a-11eb-985a-48c86a9d9dd0.png"></a>
-</p>
-  
 #### hi! 👋🏻
 
 My first forays into dev-ing the web came thx to the [Neopets HTML Guide](http://www.neopets.com/help/html1.phtml) and a compulsion to crack into places & exploit resources I wasn't supposed to. 
