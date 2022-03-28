@@ -8,4 +8,4 @@ If you're an emerging developer, you can email me directly at noamsauerutley@gma
 
 I'm listening to:
 
-![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=voidfade&count=10)
+![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=voidfade)
