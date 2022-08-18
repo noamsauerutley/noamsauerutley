@@ -4,4 +4,4 @@ Plays mostly with Haskell, Gleam, and Rust.
 
 Writes beginner-friendly algorithm solutions in JavaScript (sometimes).
 
-Likes folklore (including digital), algorithms (including recipes), language, plants, and noise music.
+Likes language, plants, and noise music.
