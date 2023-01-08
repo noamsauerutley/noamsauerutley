@@ -4,4 +4,4 @@ Plays mostly with Haskell, Gleam, and Rust.
 
 Writes beginner-friendly algorithm solutions in JavaScript (sometimes).
 
-Likes language, plants, and extreme music.
+Also likes the EFL (COYS), word puzzles, fly fishing + tying, orchid + gesneriad growing, language-learning, extreme music, cooking, reading, walking.
